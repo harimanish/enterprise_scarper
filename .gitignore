@@ -1,0 +1,46 @@
+# Environment files
+__pycache__/
+*.pyc
+*.egg-info/
+env/
+venv/
+.env
+
+# IDE or editor specific files
+*.vscode/
+.idea/
+
+# Coverage reports
+.coverage
+
+# Testing frameworks (adjust based on your testing framework)
+# For pytest:
+.pytest_cache/
+
+# Jupyter Notebooks
+*.ipynb
+
+# Temporary scratch files
+*.py~
+
+# Compiled JS/CSS (if your project uses front-end technologies)
+*.js
+*.css
+
+# Requirements files (use one of these)
+requirements.txt
+requirements.dev.txt
+
+# Logs
+*.log
+
+# Docs (if generated)
+docs/
+
+# Distribution files (if generated)
+dist/
+build/
+
+# Database migrations (if applicable)
+db_migrations/
+
